@@ -1,0 +1,30 @@
+.aboutpage{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+}
+
+.section-about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+.message{
+    width: 649px;
+    margin: auto;
+    padding: 50px;
+    font-size: 20px;
+    margin-top: 52px;
+    box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;
+}
+h1{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

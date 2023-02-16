@@ -1,0 +1,25 @@
+.links{
+   text-decoration: none;
+}
+li{
+   list-style: none;
+    cursor: pointer;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.stocks-box{
+    box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;
+    border-radius: 10px;
+    width: 400px;
+    height: 333px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.results-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

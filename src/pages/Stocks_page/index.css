@@ -1,0 +1,21 @@
+.stockspage{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+    height: 100vh;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.msg{
+    margin-top: 50px;
+    width: 644px;
+    text-align: center;
+}

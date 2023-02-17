@@ -12,13 +12,12 @@
     justify-content: center;
     align-items: center;
     width: 100vw;
+    height: 100vh;
 }
 .message{
     width: 649px;
-    margin: auto;
-    padding: 50px;
+    line-height: 1.9;
     font-size: 20px;
-    margin-top: 52px;
     box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;
 }
 h1{

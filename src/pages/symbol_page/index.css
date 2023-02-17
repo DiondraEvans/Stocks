@@ -15,6 +15,9 @@
     justify-content: center;
     align-items: center;
 }
+.listOfInfo li{
+    cursor: default;
+}
 .symbol-stats{
     display: flex;
     flex-direction: column;

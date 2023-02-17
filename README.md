@@ -1,5 +1,6 @@
 <h1>Stock Information App</h1>
 <image src="./src/images/stockthumbnail.png">
+<a href="https://stocks-bm6u.onrender.com">Check out this website</a>
 <p>This is a simple React application that displays stock information for a few corporations. The purpose of the website is to use react-router-dom to navigate through different pages. The stock data is hard coded in a JavaScript file, so no external APIs or databases are required.</p>
 
 <h2>How to Run</h2>

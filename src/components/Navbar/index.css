@@ -23,3 +23,7 @@
     text-decoration: none;
     color: white;
 }
+.navbar a:hover{
+    text-decoration: none;
+    color: #0e8fd4;
+}
